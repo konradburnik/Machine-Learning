@@ -1,0 +1,16 @@
+Scala Course : Coursera
+-------------------------
+https://www.coursera.org/course/progfun
+
+
+Lambda Architecture
+---------------------
+Some Intro: https://www.youtube.com/watch?v=fPlgoTLJh38   
+Jim@ MapR : https://www.youtube.com/watch?v=HNKRp_afMk4   
+Martin MapR : https://www.youtube.com/watch?v=MbJVij3im4c 
+Nathan MArtz: https://www.youtube.com/watch?v=ucHjyb6jv08 <-- Must see ... but take a look @ the one above
+
+
+Kappa Architecture
+--------------------
+http://www.kappa-architecture.com/  <-- check the video on the home page [dont get bored at the begining]
